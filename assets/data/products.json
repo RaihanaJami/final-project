@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Sample Running Shoes",
+    "price": 49.99,
+    "description": "Comfortable running shoes for daily training.",
+    "category": "shoes",
+    "image": "https://via.placeholder.com/300x300?text=Shoes"
+  },
+  {
+    "id": 2,
+    "title": "Casual Shirt",
+    "price": 29.99,
+    "description": "Light cotton shirt, perfect for all-day wear.",
+    "category": "clothing",
+    "image": "https://via.placeholder.com/300x300?text=Shirt"
+  },
+  {
+    "id": 3,
+    "title": "Wireless Headphones",
+    "price": 79.99,
+    "description": "Noise-isolating wireless headphones with long battery.",
+    "category": "electronics",
+    "image": "https://via.placeholder.com/300x300?text=Headphones"
+  }
+]
